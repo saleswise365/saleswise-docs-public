@@ -5,7 +5,7 @@ description: Seed or update a bilingual Saleswise feature or module guide in the
 
 # Saleswise documentation guides
 
-Work from this documentation repository. When the wider Saleswise workspace is available, use `../docs-review/saleswise-code-to-docs/SKILL.md` for deeper route inventory, claim evidence, and classification, and treat `../docs-review/SALESWISE-DOCS-IMPLEMENTATION-PLAN.md` as a historical proposal to check against current code. If source repositories are unavailable, do not invent or update factual product behavior.
+Work from this documentation repository. When the wider Saleswise workspace is available, use `../plugins/skills/saleswise-code-to-docs/SKILL.md` for deeper route inventory, claim evidence, and classification, and treat `../docs-review/SALESWISE-DOCS-IMPLEMENTATION-PLAN.md` as a historical proposal to check against current code. If source repositories are unavailable, do not invent or update factual product behavior.
 
 ## Locate the feature and destination
 
